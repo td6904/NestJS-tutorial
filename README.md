@@ -1,8 +1,8 @@
 ### My Notes
 
-@1 h 27 mins in video - yarn start:dev
+@1 h 47 mins in video - yarn start:dev
 
---------------
+---
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
