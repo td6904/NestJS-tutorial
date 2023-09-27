@@ -82,7 +82,7 @@ export class AuthService {
 
     return this.jwt.signAsync(payload, {
       expiresIn: '15m',
-      secret: secret,
+      privateKey: secret,
     });
   }
 }
