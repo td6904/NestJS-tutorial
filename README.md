@@ -1,6 +1,6 @@
 ### My Notes
 
-@1 h 47 mins in video - yarn start:dev
+@1 h 55 mins in video - yarn start:dev
 
 ---
 
